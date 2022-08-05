@@ -1,0 +1,72 @@
+body{
+    background-color: green;
+}
+hr{
+    width: 400px;
+    border-color: blue;
+    margin-left: 0px;
+}
+.lo{
+    padding: 5px;
+}
+.oi{
+    color: white;
+}
+
+fieldset{
+   padding-left: 450px;
+    border: none;
+}
+input{
+border: none;
+}
+.me{
+    margin-bottom:20px;
+    margin-top: 7px;
+    background-color: black;
+    color: white;
+width: 400px;
+
+}
+button{
+    height:5px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.ni{
+    padding-left:0px;
+    color: white;
+   
+}
+.de{
+    margin-top:7px;
+}
+.mi{
+    margin-bottom:20px;
+    margin-top: 7px;
+    background-color: white;
+    width: 400px;
+
+}
+    
+
+a{
+    color: blue;
+}
+.de{
+background-color: black;
+width: 400px;
+}
+.lu{
+    width: 200px;
+    margin-left: 100px;
+    height: 30px;
+}
+.py{
+    margin-top: 500px;
+}
+
